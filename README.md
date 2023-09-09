@@ -18,6 +18,11 @@ Installation
 go get github.com/shurcooL/gofontwoff
 ```
 
+Alternatives
+------------
+
+- [gofontweb](https://artyom.dev/gofontweb) - Embeddable Go fonts in woff2 format, exposed via the [`fs.FS`](https://go.dev/pkg/io/fs#FS) interface.
+
 License
 -------
 
